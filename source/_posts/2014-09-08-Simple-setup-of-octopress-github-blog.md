@@ -5,7 +5,7 @@ category : blog
 tagline: ""
 tags : [Jekyll, Octopress, theme]
 ---
-
+ZZZZZ
 I found the  of a github blog with Octopress to be problematic. Seems like between the [the Octopress site's docs](http://octopress.org/docs/deploying/github/) (which seem to be very thorough, BTW) and the [github pages (a.k.a., blog)](https://pages.github.com/) creation docs, something was slipping between the cracks. Web searches resulted in many false leads or solutions inappropraite to my case. I got pretty frustrated. But, since it seems that others have had issues as well, I decided to knuckle down and find my own way. I put what I've learned here.
 
 Also, this site can be helpful: [Eric Duncan's blog](http://eduncan911.com/software/octopress-powershell-and-posh-git-oh-my.html).
